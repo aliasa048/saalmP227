@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\hometask 02.06.2022\\hometask 02.06.2022\\hometask 02.06.2022.csproj": {}
+    "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\HomeWork 03.06.2022\\HomeWork 03.06.2022\\HomeWork 03.06.2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\hometask 02.06.2022\\hometask 02.06.2022\\hometask 02.06.2022.csproj": {
+    "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\HomeWork 03.06.2022\\HomeWork 03.06.2022\\HomeWork 03.06.2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\hometask 02.06.2022\\hometask 02.06.2022\\hometask 02.06.2022.csproj",
-        "projectName": "hometask 02.06.2022",
-        "projectPath": "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\hometask 02.06.2022\\hometask 02.06.2022\\hometask 02.06.2022.csproj",
+        "projectUniqueName": "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\HomeWork 03.06.2022\\HomeWork 03.06.2022\\HomeWork 03.06.2022.csproj",
+        "projectName": "HomeWork 03.06.2022",
+        "projectPath": "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\HomeWork 03.06.2022\\HomeWork 03.06.2022\\HomeWork 03.06.2022.csproj",
         "packagesPath": "C:\\Users\\FX516PM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\hometask 02.06.2022\\hometask 02.06.2022\\obj\\",
+        "outputPath": "C:\\Users\\FX516PM\\Desktop\\hwiyun1\\HomeWork 03.06.2022\\HomeWork 03.06.2022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FX516PM\\AppData\\Roaming\\NuGet\\NuGet.Config",
